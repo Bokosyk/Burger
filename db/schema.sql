@@ -1,0 +1,8 @@
+DROP DATABASE IF EXISTS burgers_db;
+CREATE DATABASE burgers_db;
+USE burgers_db;
+CREATE TABLE burgers (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  burgers_name VARCHAR(30) UNIQUE NOT NULL,
+  devoured VARCHAR(30) UNIQUE NOT NULL  
+);
