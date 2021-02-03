@@ -19,7 +19,7 @@ Clink on the heroku link.
 
 ## Usage 
 
-![]()
+![App Look](https://raw.githubusercontent.com/Bokosyk/Responsive-Portfolio/main/Assets/Images/Burger.png)
 
 The user can create a burger in the input category, which gets sent to the waiting area. The user can then click "Devour it!" to devour the burger, and move it to the devoured section.
 
