@@ -1,7 +1,12 @@
+header {
+  background-image: url(https://cdn.pixabay.com/photo/2018/03/04/20/08/burger-3199088_960_720.jpg);
+  color: white;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: lightgreen;
 }
 
 .label {
