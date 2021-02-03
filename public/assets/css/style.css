@@ -39,6 +39,9 @@ li {
   font-weight: bold;
   font-family: 'Lobster', cursive;
 }
+.create-form {
+  text-align: center;
+}
 
 .create-update-form {
   padding: 5px;
@@ -48,4 +51,26 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+
+
+button {
+  background-color: #fff;
+  border-color: lightgreen !important;
+  border: 2px solid lightgreen;
+  font-size: 14px;
+  padding: 8px 12px;
+  margin-left: 3px;
+  margin-bottom: 5px;
+  border-bottom-color: rgb(255,255,255);
+  border-bottom-left-radius: 0px;
+  font-family: 'Lobster', sans-serif;
+  transition: 0.3s;
+}
+
+button:hover{
+  cursor: pointer;
+  background: lightgreen;
+  color: white;
 }
